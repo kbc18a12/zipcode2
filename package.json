@@ -1,7 +1,6 @@
 {
   "name": "herokukadai1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -19,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/kbc18a12/herokukadai1/issues"
   },
-  "homepage": "https://github.com/kbc18a12/herokukadai1#readme"
+  "homepage": "https://github.com/kbc18a12/herokukadai1#readme",
+  "description": ""
 }
